@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahfianahne.joesutherland.rocks/sitemap.xml
